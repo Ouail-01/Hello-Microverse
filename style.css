@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    color: gray;
+    font-size: 100px;
+    margin: auto;
+}
