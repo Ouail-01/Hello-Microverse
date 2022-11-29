@@ -7,7 +7,6 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -26,21 +25,9 @@
 ## 🛠 Built With <a name="built-with"></a>
 > Html & CSS
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> features of the application.
-
-- **[key_feature_1]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://ouail-01.github.io/Hello-Microverse/)
 
@@ -52,13 +39,18 @@
 
 To get a local copy up and running, follow these steps.
 
+- clone this repository to your local machine by runnig this command 
+  - git clone https://github.com/Ouail-01/Hello-Microverse.git
+  - double click on the index.html file the file will open in the browser
+  - :star: in order to check the code or to modify it you will need visual studio or any code editor :star:
+
 ### Prerequisites
 
 In order to run this project you need:
 
-### Setup
-
-Clone this repository to your desired folder:
+- Any code editor your confortable with.
+- git
+- browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,8 +61,8 @@ Clone this repository to your desired folder:
 👤 **Ouail Laarabi**
 
 - GitHub: [@Ouail-01](https://github.com/Ouail-01)
-- Twitter: [@Ouail_laarabi](https://twitter.com/home?lang=en)
-- LinkedIn: [Ouail Laarabi](https://www.linkedin.com/feed/)
+- Twitter: [@Ouail_laarabi](https://twitter.com/Ouail_Laarabi)
+- LinkedIn: [Ouail Laarabi](https://www.linkedin.com/in/ouail-laarabi-53203b250/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +72,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Ouail-01/Hello-Microverse/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +88,7 @@ If you like this project give a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse
+I would like to thank Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
